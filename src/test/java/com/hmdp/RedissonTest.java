@@ -34,6 +34,7 @@ class RedissonTest {
 
     }
 
+
     @Test
     void method1() throws InterruptedException {
         // 尝试获取锁
